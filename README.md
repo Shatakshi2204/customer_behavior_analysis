@@ -6,6 +6,11 @@ End-to-End Data Analytics Project
 
 This project showcases a complete end-to-end data analytics workflow, closely aligned with real-world company practices. The primary objective is to analyze customer shopping behavior for a retail business and derive actionable insights to improve sales performance, customer satisfaction, and customer loyalty. The project covers the full analytics lifecycle—from raw data exploration to business insights, visualization, and portfolio deployment.
 
+<img width="1216" height="727" alt="Screenshot 2026-02-08 113345" src="https://github.com/user-attachments/assets/7d9ecda1-2d28-405b-8a36-f8323a109da2" />
+<img width="1210" height="730" alt="Screenshot 2026-02-08 113451" src="https://github.com/user-attachments/assets/88cabc7b-0117-4e34-ae9b-6da48851f1b4" />
+<img width="1217" height="737" alt="Screenshot 2026-02-08 113532" src="https://github.com/user-attachments/assets/d5673844-430c-47a4-b7b1-2ec14d74067a" />
+
+
 🎯 Business Problem
 
 Understanding customer behavior is critical for data-driven decision-making. This project addresses key business questions such as:
